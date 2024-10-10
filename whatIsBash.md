@@ -11,3 +11,6 @@ and are extremely customizable for any environment
 ##Bash Vs Shell?
 -Shell is the UI of the terminal/command prompt
 -Bash is teh specific type of shell that is used
+
+
+-Run ./filename.sh
